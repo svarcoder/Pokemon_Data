@@ -1,5 +1,5 @@
 import Card from "@/shared/card/Card";
-import Styles from "./style.module.css";
+import Styles from "./Style.module.css";
 import { useState } from "react";
 import Modal from "@/shared/modal/Modal";
 import { SinglePokemonProps } from "@/shared/typescript/type";

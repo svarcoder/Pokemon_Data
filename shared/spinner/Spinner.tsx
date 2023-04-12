@@ -1,4 +1,4 @@
-import Styles from "./style.module.css";
+import Styles from "./Style.module.css";
 
 const Spinner = () => {
 	return (

@@ -1,5 +1,5 @@
 import { useQuery } from "@apollo/client";
-import Styles from "./style.module.css";
+import Styles from "./Style.module.css";
 import { GET_POKEMONS_EVOLUTIONS } from "@/backend/operation";
 import Image from "next/image";
 import { ModalProps } from "../typescript/type";

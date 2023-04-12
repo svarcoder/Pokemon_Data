@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { GET_POKEMONS } from "@/backend/operation";
 import Card from "@/shared/card/Card";
-import Styles from "./style.module.css";
+import Styles from "./Style.module.css";
 import Spinner from "@/shared/spinner/Spinner";
 import { useRouter } from "next/router";
 import { PokemonProps } from "@/shared/typescript/type";
